@@ -1,0 +1,43 @@
+Comandos do CMD:
+Ambiente terminal(Tela Preta) - ambiente não gráfico que não usa mouse, só o teclado.
+Prompt - é o termo digitado
+ctrl + scroll - zoom
+comando dir - exibi da pasta onde você está
+cls - limpa a tela 
+pasta também são chamadas de diretórios
+md - cria uma pasta nova
+cd - entra na pasta
+cd .. - sai da pasta que você está para uma pasta anterior
+Setinhas - ela ajuda a se movimentar entre os comandos sem digitar
+rd - remove pasta
+dir/w - listagem em colunas
+dir/p - dar partes da lista
+help dir - manual de dicas de comando do que fazer
+raiz - voltar direto para pasta inicial
+\ - ajuda ir ou volta quantas pastas entrar 
+cd\ - volta pra raiz
+
+Comandos para o GIT:
+git --version - fala a versão do seu git
+pwd - mostra a pasta que você está
+ls=dir
+ls -la - mostra além das pastas, os arquivos ocultos
+clear - limpa a tela
+git config --global user.name "" - coloca o nome do usuário no git hub
+git config --global user.email "" - coloca o email no git hub
+git config --global core.editor "notepad.exe" - coloca o editor de texto padrão
+git config --global core.ui true - exibi os códigos coloridos
+git config --global --list - mostra o que você configurou
+git config user.email - mostra o email colocado
+git config user.name - mostra o nome de usuário colocado
+cat .gitconfig - mostra o q está na pasta .gitconfig
+git --help=help dir
+cd /d- para ir para outro drive
+cd gabriel - entrou na pasta
+
+
+
+
+
+
+
